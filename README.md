@@ -10,6 +10,6 @@ Two areas of this level have been cut and kept in other levels:
 - Div Room 2 (The flour mill): now in Tian Shan River. (You can see a walled-up entrance that is no longer useful)
 - The Ice Boss Arena: now in Shambala Santuary. (Originally, the Shambala Santuary level ended after giving the flower to the old lady).
 
-https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw.jpg
+![alt text]https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw.jpg
 
 # End
