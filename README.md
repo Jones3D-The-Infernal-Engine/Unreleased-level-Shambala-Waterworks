@@ -16,12 +16,12 @@ Two areas of this level have been cut and kept in other levels:
 
 ***** DEPORTED AND NOW USED IN TIAN SHAN RIVER (02_riv) (Diversion room 2) *****
 
-- shw_hammer.cog                - 
-- shw_Hammer_cam.cog            - 
+- shw_hammer.cog                - Simple script used by each of the three hammers to deal with Indy's crush death.
+- shw_Hammer_cam.cog            - Controls the hammer mill status in the diversion room 2, once used by monks to produce their flour. In the original level, the machine only worked if Indy directed the flow of water in that room. (Using a sluice system located in a room that no longer exists, probably "the main cave"). If the water is diverted away from the diversion room 2, the machine is stopped and reset to a standard position which prevents Indy from climbing to the upper floors.
 
 ***** DEPORTED AND NOW USED IN SHAMBALA SANCTUARY (03_shs) (Ice boss arena) *****
 
-- shw_noledge.cog               - Prevents Indy from hanging onto the ledge bafore the ground (thing) collapses below him (And then, not to pass his hands through the ground). By default the surface is not "hangable", it becomes "hangable" 1 second after the fall of the ground (Thing).
+- shw_noledge.cog               - Prevents Indy from hanging onto the ledge before the ground (thing) collapses below him (And then, not to pass his hands through the ground). By default the surface is not "hangable", it becomes "hangable" 1 second after the fall of the ground (Thing).
 - 04_SHW_Cinematic_3.cog        - Cutscene triggered when Indy open the door at the end of the level, the holy woman sends him to Palawan.
 - SHW_BossCinematic.cog         - Cutscenes triggeredw when Indy entered in the arena showing the ice boss and when killing him.
 - shw_fogswitch.cog             - Change the fog when Indy crosses surfaces (4 for artivate and 4 for desactivate).
@@ -32,6 +32,6 @@ Two areas of this level have been cut and kept in other levels:
 
 IN PROGRESS
 
-- shw_fallfx.cog                - Defines a still existing water sound (riv_h20_rapid_a.wav) for some "ghost objects" and also defines a downward thrust. Probably a waterfall that is part of the "waterslide park" usable by Indy and mentioned by Chris Mc Gee. The script receive orders (user0:) by a cog variable: "icedamcog", probably "shw_newriver_thaw.cog". The water flowing after the dam melts would therefore supply one or more waterfalls that can be used by Indy. (And then, maybe visitable early in the level without water, sound an thrust?)
+- shw_fallfx.cog                - Defines a still existing water sound (riv_h20_rapid_a.wav) for "ghost objects" and also defines a downward sector thrust. Probably a waterfall that is part of the "waterslide park" usable by Indy and mentioned by the level designer. The script receive orders (user0:) from variable "icedamcog", which was probably "shw_newriver_thaw.cog". The water flowing after the dam melts would therefore supply one or more waterfalls that can be used by Indy. (And then, maybe visitable early in the level without water, sound an thrust?)
 
 # End
