@@ -23,7 +23,7 @@ Two areas of this level have been cut and kept in other levels:
 
 - shw_noledge.cog               - Prevents Indy from hanging onto the ledge before the ground (thing) collapses below him (And then, not to pass his hands through the ground). By default the surface is not "hangable", it becomes "hangable" 1 second after the fall of the ground (Thing).
 - 04_SHW_Cinematic_3.cog        - Cutscene triggered when Indy open the door at the end of the level, the holy woman sends him to Palawan.
-- SHW_BossCinematic.cog         - Cutscenes triggeredw when Indy entered in the arena showing the ice boss and when killing him.
+- SHW_BossCinematic.cog         - Cutscenes triggered when Indy entered in the arena showing the ice boss and when killing him.
 - shw_fogswitch.cog             - Change the fog when Indy crosses surfaces (4 for artivate and 4 for desactivate).
 - SHW_IceBoss.cog               - Ai, movements and general actions of the ice boss.
 - shw_IMP1control.cog           - Small cutscene triggered when Indy pick up the Urgon part.
