@@ -16,7 +16,7 @@ Two areas of this level have been cut and deported in other levels:
 
 ***** DEPORTED AND NOW USED IN TIAN SHAN RIVER (02_riv) (Diversion room 2) *****
 
-- shw_hammer.cog                - Simple script used by each of the three hammers to deal with Indy's crush death.
+- shw_hammer.cog                - Simple script used by each of the three hammers to control Indy's crush death.
 - shw_Hammer_cam.cog            - Controls the hammer mill status in the diversion room 2, once used by monks to produce their flour. In the original level, the machine only worked if Indy directed the flow of water in that room. (Using a sluice system located in a room that no longer exists, probably "the main cave"). If the water is diverted away from the diversion room 2, the machine is stopped and reset to a standard position which prevents Indy from climbing to the upper floors.
 
 ***** DEPORTED AND NOW USED IN SHAMBALA SANCTUARY (03_shs) (Ice boss arena) *****
