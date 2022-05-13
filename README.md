@@ -27,7 +27,7 @@ Not present in the official SHW COGS files. (Maybe in general voice cog or just 
 <span style="color: red">"SW01J02B.WAV"</span>	0	"I need something to heat this ice up and melt it."
 
 Voice line when crossing a surface in "First area". (shw_powervoice.cog - var inwheelspot)
-<span style="color: red">"SW01J03.WAV"</span>	0	"A waterwheel and four different sluiceways.  Why so many...?"
+<span style="color: red"> "SW01J03.WAV" </span>	0	"A waterwheel and four different sluiceways.  Why so many...?"
 
 Voice line when crossing a surface in "Wheel cave" (shw_portroomvoice.cog - var intheyknew)
 <span style="color: red">"SW01J04.WAV"</span>	0	"They certainly knew how to use water power here..."
