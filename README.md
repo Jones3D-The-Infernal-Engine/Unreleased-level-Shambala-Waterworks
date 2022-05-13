@@ -14,8 +14,16 @@ Two areas of this level have been cut and deported in other levels:
 
 # Level voices lines (not included in the released game)
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 In intro cutscene. (shw_opening.cog - var indyline)
-<span style="color: green">SW01J01.WAV</span>	0	"Brr.  Cold in here."
+"SW01J01.WAV"	0	"Brr.  Cold in here."
 
 Voice line when action on a door in the "First area". (shw_rivervoice.cog - var inrivspot)
 "SW01J02.WAV"	0	"The stream is frozen solid. Ice won't spin too many waterwheels..."
@@ -33,7 +41,7 @@ Voice line when crossing a surface in "Wheel cave" (shw_portroomvoice.cog - var 
 "SW01J04.WAV"	0	"They certainly knew how to use water power here..."
 
 Voice line when Indy have contact with a gate (var gatedev), probably a sluice. (shw_sluicevoice.cog - var inhmm)
-SW01J05.WAV"	0	"It's a sluice-gate.  The monks must have used it to direct the water flow..."
+"SW01J05.WAV"	0	"It's a sluice-gate.  The monks must have used it to direct the water flow..."
 
 Not present in the official SHW COGS files. (Maybe in general voice cog or just never inclued???)
 "SW01J06.WAV"	0	"Here's where the monks made flour for their daily bread..."
