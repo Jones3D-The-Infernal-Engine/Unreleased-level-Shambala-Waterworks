@@ -15,7 +15,7 @@ Two areas of this level have been cut and deported in other levels:
 # Level voices lines (not included in the released game)
 
 In intro cutscene. (shw_opening.cog - var indyline)
-"SW01J01.WAV"	0	"Brr.  Cold in here."
+<span style="color: green">SW01J01.WAV</span>	0	"Brr.  Cold in here."
 
 Voice line when action on a door in the "First area". (shw_rivervoice.cog - var inrivspot)
 "SW01J02.WAV"	0	"The stream is frozen solid. Ice won't spin too many waterwheels..."
