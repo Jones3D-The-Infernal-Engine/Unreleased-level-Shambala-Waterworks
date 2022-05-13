@@ -12,6 +12,38 @@ Two areas of this level have been cut and deported in other levels:
 
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw.jpg?raw=true)
 
+# Level voices lines (not included in the released game)
+
+In intro cutscene. (shw_opening.cog - var indyline)
+<span style="color: red">"SW01J01.WAV"</span>	0	"Brr.  Cold in here."
+
+Voice line when action on a door in the "First area". (shw_rivervoice.cog - var inrivspot)
+<span style="color: red">"SW01J02.WAV"</span>	0	"The stream is frozen solid. Ice won't spin too many waterwheels..."
+
+Voice line when action on a door. (shw_rivervoice.cog - var inrivhint)
+<span style="color: red">"SW01J02A.WAV"</span>	0	"If I could melt the ice here, the river would flow again, I'll bet."
+
+Not present in the official SHW COGS files. (Maybe in general voice cog or just never inclued???)
+<span style="color: red">"SW01J02B.WAV"</span>	0	"I need something to heat this ice up and melt it."
+
+Voice line when crossing a surface in "First area". (shw_powervoice.cog - var inwheelspot)
+<span style="color: red">"SW01J03.WAV"</span>	0	"A waterwheel and four different sluiceways.  Why so many...?"
+
+Voice line when crossing a surface in "Wheel cave" (shw_portroomvoice.cog - var intheyknew)
+<span style="color: red">"SW01J04.WAV"</span>	0	"They certainly knew how to use water power here..."
+
+Voice line when Indy have contact with a gate (var gatedev), probably a sluice. (shw_sluicevoice.cog - var inhmm)
+<span style="color: red">"SW01J05.WAV"</span>	0	"It's a sluice-gate.  The monks must have used it to direct the water flow..."
+
+Not present in the official SHW COGS files. (Maybe in general voice cog or just never inclued???)
+<span style="color: red">"SW01J06.WAV"</span>	0	"Here's where the monks made flour for their daily bread..."
+
+Voice line when crossing a surface in "DivRoom 2". (shw_div2voice.cog - var intheyknew)
+<span style="color: red">"SW01J06A.WAV"</span>	0	"Quite a milling machine.  The first step in pounding out the monks' daily bread, no doubt."
+
+Voice line when Indy take a "flask" but there isn't but there is no inventory object index. (shw_rivervoice.cog - var inflaskspot)
+<span style="color: red">"SW01J07.WAV"</span>	0	"Some lamp oil...I might be able to warm things up with this."
+
 # Level scripts infos
 
 ***** DEPORTED AND NOW USED IN TIAN SHAN RIVER (02_riv) (Diversion room 2) *****
