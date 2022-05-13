@@ -17,10 +17,10 @@ Two areas of this level have been cut and integrated in other levels:
 In intro cutscene. (shw_opening.cog - var indyline)<br/>
 "```SW01J01.WAV```"	0	"Brr.  Cold in here."
 
-Voice line when action on a door in the "First area". (shw_rivervoice.cog - var inrivspot)<br/>
+Voice line when action on a door in the "River area". (shw_rivervoice.cog - var inrivspot)<br/>
 "```SW01J02.WAV```" "The stream is frozen solid. Ice won't spin too many waterwheels..."
 
-Voice line when action on a door in the "First area". (shw_rivervoice.cog - var inrivhint)<br/>
+Voice line when action on a door in the "River area". (shw_rivervoice.cog - var inrivhint)<br/>
 "```SW01J02A.WAV```" "If I could melt the ice here, the river would flow again, I'll bet."
 
 Not present in the official SHW COGS files. (Maybe in general voice cog or just never inclued???)<br/>
