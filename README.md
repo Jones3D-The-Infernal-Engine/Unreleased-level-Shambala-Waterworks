@@ -52,6 +52,13 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 # Specific items of the level
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw_items.jpg?raw=true)
 
+<pre>
+- shw_jar_oil.3do               - Oil jar : Melt the ice dam.
+- shw_divkeyblue.3do            - Sapphire key : Open diversion room 1.
+- shw_divkeygold.3do            - Gold key : Open diversion room 2.
+- shw_divkeyred.3do             - Garnet key : Open diversion room 3.
+</pre>
+
 # Level scripts infos
 
 ***** NOW USED IN TIAN SHAN RIVER (02_riv) (Integrated Diversion room 2) *****
