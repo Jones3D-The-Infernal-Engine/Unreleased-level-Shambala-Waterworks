@@ -15,8 +15,7 @@ Two areas of this level have been cut and integrated in other levels:
 - The Diversion room 2 (The flour mill): Now in Tian Shan River. (The river was smaller and you can see a walled-up entrance that is no longer used)
 - The Ice boss arena: Now in Shambala Santuary. (Originally, the Shambala Santuary level ended after giving the flower to the old lady).
 </pre>
-![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw.jpg?raw=true)
-
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/a0f42e3c93322f6730956c780250681ad63ffc3c/04_shw.jpg?raw=true)
 <pre>
 - Loading screen                - Still in game folder.
 - Ice boss arena                - Dev SHW era <1999.
@@ -58,7 +57,6 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 
 # Specific items of the level
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/740511db93f360b053127e7d61f7d92da7569be8/04_shw_items.jpg?raw=true)
-
 <pre>
 - shw_jar_oil.3do               - Oil jar : Melt the ice dam.
 - shw_divkeyblue.3do            - Sapphire key : Open diversion room 1.
