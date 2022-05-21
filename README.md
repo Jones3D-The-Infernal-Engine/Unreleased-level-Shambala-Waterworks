@@ -50,7 +50,7 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 "```SW01J07.WAV```" "Some lamp oil...I might be able to warm things up with this."
 
 # Specific items of the level
-![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw_items.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/740511db93f360b053127e7d61f7d92da7569be8/04_shw_items.jpg?raw=true)
 
 <pre>
 - shw_jar_oil.3do               - Oil jar : Melt the ice dam.
