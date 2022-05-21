@@ -17,6 +17,13 @@ Two areas of this level have been cut and integrated in other levels:
 </pre>
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw.jpg?raw=true)
 
+<pre>
+- Loading screen                - Still in game folder.
+- Ice boss arena                - Dev SHW era <1999.
+- Diversion room 2              - Dev SHW era <1999.
+- Diversion room 1              - Dev SHW era <1999.
+</pre>
+
 # Level voices lines (not included in the released game)
 
 In intro cutscene. (shw_opening.cog - var indyline)<br/>
