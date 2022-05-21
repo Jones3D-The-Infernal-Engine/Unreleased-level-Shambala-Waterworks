@@ -49,6 +49,9 @@ Voice line when crossing a surface in "Diversion room 2". (shw_div2voice.cog - v
 Voice line when Indy take a "flask" but no inventory object index (bin) is defined. (shw_rivervoice.cog - var inflaskspot)<br/>
 "```SW01J07.WAV```" "Some lamp oil...I might be able to warm things up with this."
 
+# Specific items od the level
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw_items.png?raw=true)
+
 # Level scripts infos
 
 ***** NOW USED IN TIAN SHAN RIVER (02_riv) (Integrated Diversion room 2) *****
