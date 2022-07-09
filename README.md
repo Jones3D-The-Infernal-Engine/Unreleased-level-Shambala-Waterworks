@@ -1,16 +1,8 @@
 # Unreleased-level-Shambala-Waterworks
 
-A level existed between Shambala Santuary and Palawan Lagoon: Shambala Waterworks. It was never included in the final game due to lack of time and technical problems. No one has seen this level since 1999 but many files have been forgotten in the game. (I'm sure it would be possible to make it work again if we had it, or recreate it if not ...)
+A level existed between Shambala Santuary and Palawan Lagoon: Shambala Waterworks. It was never included in the final game due to lack of time and technical problems. No one has seen this level since 1999 but many files have been forgotten in the game. (I'm sure it would be possible to play it again if we had the level file, the most complicated solution would be to recreate it according to the information we have...)
 
--In this level the main goal was to open 4 portcullis doors using a system consisting of 4 channels and a water wheel. These doors led to the Ice Boss. But problem the water is frozen.
-
--The first step was to to melt an ice dam in the DivRoom 1 in order to supply water to the whole station. For that you had to find an Oil jar, break it on the ice dam and fire the oil with the Zippo.
-
--The water now flows through channels and can now be diverted to DivRooms 2 and 3 using the sluice in the DivRoom 1.
-
-The next step was to complete 3 "Diversion rooms" also called "Div rooms" in any order you want, which must be opened with "Silver key", "Gold key" and "Garnet key". You had to divert the waterflow in any diversion rooms to start the associated mechanisms using some sluices gates. The level was filled with mills, sluices and various mechanisms. The goal of this whole operation was to open 4 gates leading to the Ice Boss.
-
-Two areas of this level have been cut and integrated in other levels:
+Two areas of this level have been cut and integrated in two other levels of the released game:
 <pre>
 - The Diversion room 2 (The flour mill): Now in Tian Shan River. (The river was smaller and you can see a walled-up entrance that is no longer used)
 - The Ice boss arena: Now in Shambala Santuary. (Originally, the Shambala Santuary level ended after giving the flower to the old lady).
@@ -22,6 +14,20 @@ Two areas of this level have been cut and integrated in other levels:
 - Diversion room 2              - Dev SHW era <1999.
 - Diversion room 1              - Dev SHW era <1999.
 </pre>
+
+# Content and goal in this level
+
+-The level was built around a large central cylinder cave which was initially empty but could be filled with water later, the main puzzle was to open 4 portcullis doors leading to the Ice Boss arena and Urgon's laboratory. A system made up of 4 channels and a hydraulic wheel allowed to open these ortcullis doors.
+
+-The first step was to find a "Silver key" and melt an ice dam in the DivRoom 1 (Power room) in order to supply water to the whole station. For that you had to find an Oil jar, break it on the ice dam and fire the oil with the Zippo.
+
+-The water now flows through channels and can now be diverted to Diversion Rooms 2 or 3 using the sluice in the Diversion Room 1.
+
+-The next step was to complete the "Diversion rooms" 2 and 3 (also called "Div rooms") in any order you want, which must be opened with "Gold key" and "Garnet key". You had to divert the waterflow in any diversion rooms and divert the waterflow again using associated sluices gates. (two directions in each rooms, which makes 4 channels.
+
+-We do not know at the moment how these 4 channels are connected to the central cylinder and how they act on the wheel.
+
+-Once the four portcullis doors were open, it was possible to descend into the Ice Boss arena probably from the west and not from the south (as currently). The arena and end cutscene were similar to the released version.
 
 # Third theoretical version of the layout (extremely simplified)
 
