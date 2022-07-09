@@ -23,6 +23,10 @@ Two areas of this level have been cut and integrated in other levels:
 - Diversion room 1              - Dev SHW era <1999.
 </pre>
 
+# Third theoretical version of the layout
+
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/shw_map_v3.jpg?raw=true)
+
 # Level voices lines (not included in the released game)
 
 In intro cutscene. (shw_opening.cog - var indyline)<br/>
