@@ -10,9 +10,9 @@ Two areas of this level have been cut and integrated in two other levels of the 
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/a0f42e3c93322f6730956c780250681ad63ffc3c/04_shw.jpg?raw=true)
 <pre>
 - Loading screen                - Still present in game files.
-- Ice boss arena                - Dev picture of SHW, era ≤ 1999.
-- Diversion room 2              - Dev picture of SHW, era ≤ 1999.
-- Diversion room 1              - Dev picture of SHW, era ≤ 1999.
+- Ice boss arena                - LucasArts dev promotional public screenshot, era ≤ 1999.
+- Diversion room 2              - LucasArts dev promotional public screenshot, era ≤ 1999.
+- Diversion room 1              - LucasArts dev promotional public screenshot, era ≤ 1999.
 </pre>
 
 # Content and goal in this level
