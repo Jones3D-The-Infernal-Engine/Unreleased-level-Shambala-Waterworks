@@ -74,6 +74,12 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 - shw_divkeyred.3do             - Garnet key : Open diversion room 3.
 </pre>
 
+# NPCs
+- Ice boss (x1) : Confirmed
+- Ice monster (x?) : Uncertain but very probable
+- Ice butterfly (x?) : Uncertain but very probable
+- Soviets (x?) : Confirmed
+
 # Level scripts infos
 
 ***** NOW USED IN TIAN SHAN RIVER (02_riv) (Integrated Diversion room 2) *****
