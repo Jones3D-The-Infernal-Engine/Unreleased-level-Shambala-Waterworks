@@ -4,7 +4,7 @@ A level existed between Shambala Santuary and Palawan Lagoon: Shambala Waterwork
 
 Two areas of this level have been cut and integrated in two other levels of the released game:
 <pre>
-- The Diversion room 2 (The flour mill): Now in Tian Shan River. (The river was smaller and you can see a walled-up entrance that is no longer used)
+- The Diversion room 2 (The flour mill): Now in Tian Shan River. (The water channel in the room was narrower (2m wide and 2.5m deep) and you can see a walled-up entrance that is no longer used, formerly leading to other parts of the level)
 - The Ice boss arena: Now in Shambala Santuary. (Originally, the Shambala Santuary level ended after giving the flower to the old lady).
 </pre>
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/a0f42e3c93322f6730956c780250681ad63ffc3c/04_shw.jpg?raw=true)
@@ -78,7 +78,7 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 - Ice boss (x1) : Confirmed as enemy
 - Ice monster (x?) : Uncertain but very probable as enemy
 - Ice butterfly (x?) : Uncertain but very probable as neutral
-- Soviet infantry (x?) : Confirmed as ennemy
+- Soviet infantry (x?) : Confirmed as enemy
 - Shambala holy woman (young) : Confirmed as friend
 
 # Level scripts infos
