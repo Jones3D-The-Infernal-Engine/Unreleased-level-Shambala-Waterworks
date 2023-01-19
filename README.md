@@ -17,7 +17,7 @@ Two areas of this level have been cut and integrated in two other levels of the 
 
 # Content and goal in this level
 
--The level was built around a large central cylinder cave which was initially empty but could be filled with water later, the main puzzle was to open 4 portcullis doors leading to the Ice Boss arena and Urgon's laboratory. A system made up of 4 channels and a hydraulic wheel allowed to open these ortcullis doors.
+-The level was built around a large central cylinder cave which was initially empty but could be filled with water later, the main puzzle was to open 4 portcullis doors leading to the Ice Boss arena and Urgon's laboratory. A system made up of 4 channels and a hydraulic wheel allowed to open these portcullis doors.
 
 -The first step was to find a "Silver key" and melt an ice dam in the DivRoom 1 (Power room) in order to supply water to the whole station. For that you had to find an Oil jar, break it on the ice dam and fire the oil with the Zippo.
 
