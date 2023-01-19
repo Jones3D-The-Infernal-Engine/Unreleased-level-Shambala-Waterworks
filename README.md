@@ -78,7 +78,7 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 - Ice boss (x1) : Confirmed as enemy
 - Ice monster (x?) : Uncertain but very probable as enemy
 - Ice butterfly (x?) : Uncertain but very probable as neutral
-- Soviet (x?) : Confirmed as ennemy
+- Soviet infantry (x?) : Confirmed as ennemy
 - Shambala holy woman (young) : Confirmed as friend
 
 # Level scripts infos
