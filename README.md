@@ -42,16 +42,10 @@ In intro cutscene. (shw_opening.cog - var indyline)<br/>
 - FR: "Brrr. Fait pas chaud ici."
 
 Voice line when action on a door in the "River area". (shw_rivervoice.cog - var inrivspot)<br/>
-"```SW01J02.WAV```"
-- EN: "The stream is frozen solid. Ice won't spin too many waterwheels..."
-- DE: ""
-- FR: "Cette rivière est complètement gelée. Ce n'est pas avec de la glace qu'on fait tourner les moulins à eau..."
+"```SW01J02.WAV```" "The stream is frozen solid. Ice won't spin too many waterwheels..."
 
 Voice line when action on a door in the "River area". (shw_rivervoice.cog - var inrivhint)<br/>
-"```SW01J02A.WAV```"
-EN: "If I could melt the ice here, the river would flow again, I'll bet."
-DE: ""
-FR: "Si j'arrivais à faire fondre cette glace, la rivière se remettrait sûrement à couler."
+"```SW01J02A.WAV```" "If I could melt the ice here, the river would flow again, I'll bet."
 
 Not present in the official SHW COGS files. (Maybe in general voice cog or just never included???)<br/>
 "```SW01J02B.WAV```" "I need something to heat this ice up and melt it."
