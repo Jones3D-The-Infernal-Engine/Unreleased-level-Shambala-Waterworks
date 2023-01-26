@@ -37,15 +37,15 @@ Two areas of this level have been cut and integrated in two other levels of the 
 
 In intro cutscene. (shw_opening.cog - var indyline)<br/>
 "```SW01J01.WAV```"
-EN: "Brr.  Cold in here."
-DE: ""
-FR: "Brrr. Fait pas chaud ici."
+- EN: "Brr.  Cold in here."
+- DE: ""
+- FR: "Brrr. Fait pas chaud ici."
 
 Voice line when action on a door in the "River area". (shw_rivervoice.cog - var inrivspot)<br/>
 "```SW01J02.WAV```"
-EN: "The stream is frozen solid. Ice won't spin too many waterwheels..."
-DE: ""
-FR: "Cette rivière est complètement gelée. Ce n'est pas avec de la glace qu'on fait tourner les moulins à eau..."
+- EN: "The stream is frozen solid. Ice won't spin too many waterwheels..."
+- DE: ""
+- FR: "Cette rivière est complètement gelée. Ce n'est pas avec de la glace qu'on fait tourner les moulins à eau..."
 
 Voice line when action on a door in the "River area". (shw_rivervoice.cog - var inrivhint)<br/>
 "```SW01J02A.WAV```"
