@@ -90,12 +90,12 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 </pre>
 ***** NOW USED IN SHAMBALA SANCTUARY (03_shs) (Integrated Ice boss arena) *****
 <pre>
-- shw_noledge.cog               - Prevents Indy from hanging onto the ledge before the ground (thing) collapses below him (And then, not to pass his hands through the ground). By default the surface is not "hangable", it becomes "hangable" 1 second after the fall of the ground (Thing).
 - 04_shw_cinematic_3.cog        - Cutscene triggered when Indy open the door at the end of the level, the holy woman sends him to Palawan.
 - shw_bosscinematic.cog         - Cutscenes triggered when Indy entered in the arena showing the ice boss and when killing him.
 - shw_fogswitch.cog             - Change the fog when Indy crosses surfaces (4 for artivate and 4 for desactivate).
 - shw_iceboss.cog               - Ai, movements and general actions of the ice boss.
 - shw_imp1control.cog           - Small cutscene triggered when Indy pick up the Urgon part.
+- shw_noledge.cog               - Prevents Indy from hanging onto the ledge before the ground (thing) collapses below him (And then, not to pass his hands through the ground). By default the surface is not "hangable", it becomes "hangable" 1 second after the fall of the ground (Thing).
 </pre>
 ***** NO LONGER USED IN THE RELEASED GAME *****
 
