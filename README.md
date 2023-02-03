@@ -107,12 +107,12 @@ IN PROGRESS
 - shw_bucketvoice.cog           - Simple dialogue spoken by Indy when he comes into contact with the bucket device model "This looks interesting".
 - shw_caveamb.cog               -
 - shw_commiecreator.cog         -
-- shw_div1locked_door.cog       - Control a door in diversion room 1 that needed to be opened using a sapphire key.
+- shw_div1locked_door.cog       - Control a door in diversion room 1 that opens with a sapphire key.
 - shw_div2ext_commies.cog       -
-- shw_div2locked_door.cog       - Control a door in diversion room 2 that needed to be opened using a gold key.
+- shw_div2locked_door.cog       - Control a door in diversion room 2 that opens with a gold key.
 - shw_div2voice.cog             - Simple dialogue spoken by Indy when he arrive in diversion room 2. "Quite a milling machine.  The first step in pounding out the monks' daily bread, no doubt."
 - shw_div3intcommies.cog        -
-- shw_div3locked_door.cog       - Control a door in diversion room 3 that needed to be opened using a garnet key.
+- shw_div3locked_door.cog       - Control a door in diversion room 3 that opens with a garnet key.
 - shw_div3roomkey.cog           - Mini-cutscene showing Indy picking up the garnet key.
 - shw_entranceamb.cog           -
 - shw_entrancedoors.cog         -
