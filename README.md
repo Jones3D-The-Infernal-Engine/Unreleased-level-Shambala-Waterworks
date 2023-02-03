@@ -101,45 +101,45 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 
 IN PROGRESS
 <pre>
-- shw_alldivrooms.cog
-- shw_arenacue.cog
-- shw_bucketdevice.cog
-- shw_bucketvoice.cog
-- shw_caveamb.cog
-- shw_commiecreator.cog
-- shw_div1locked_door.cog
-- shw_div2ext_commies.cog
-- shw_div2locked_door.cog
-- shw_div2voice.cog
-- shw_div3intcommies.cog
-- shw_div3locked_door.cog
-- shw_div3roomkey.cog
-- shw_entranceamb.cog
-- shw_entrancedoors.cog
-- shw_fallfx.cog
-- shw_galleriecommies.cog
-- shw_grill.cog
-- shw_hint.cog
-- shw_lamptorch.cog
-- shw_maindoors.cog
-- shw_mastercam.cog
-- shw_newriver_thaw.cog
-- shw_opening.cog
-- shw_piertrap.cog
-- shw_portculliswheel.cog
-- shw_portroomvoice.cog
-- shw_powergear.cog
-- shw_powerroom_sluice.cog
-- shw_powervoice.cog
-- shw_realpowerwheeldoors.cog
-- shw_riverthrust.cog
-- shw_rivervoice.cog
-- shw_roomamb.cog
-- shw_sluicevoice.cog
-- shw_switch_doors.cog
-- shw_theboss.cog
-- shw_tub.cog
-- shw_tub_clue.cog
-- shw_whipthruwall.cog
+- shw_alldivrooms.cog           -
+- shw_arenacue.cog              -
+- shw_bucketdevice.cog          - Control the bucket device, where Indy release the the gold key that opens access to diversion room 2.
+- shw_bucketvoice.cog           - Simple dialogue spoken by Indy when he comes into contact with the bucket device model "This looks interesting".
+- shw_caveamb.cog               -
+- shw_commiecreator.cog         -
+- shw_div1locked_door.cog       -
+- shw_div2ext_commies.cog       -
+- shw_div2locked_door.cog       -
+- shw_div2voice.cog             -
+- shw_div3intcommies.cog        -
+- shw_div3locked_door.cog       -
+- shw_div3roomkey.cog           -
+- shw_entranceamb.cog           -
+- shw_entrancedoors.cog         -
+- shw_fallfx.cog                -
+- shw_galleriecommies.cog       -
+- shw_grill.cog                 -
+- shw_hint.cog                  -
+- shw_lamptorch.cog             -
+- shw_maindoors.cog             -
+- shw_mastercam.cog             -
+- shw_newriver_thaw.cog         -
+- shw_opening.cog               -
+- shw_piertrap.cog              - Control the "pier trap", where 3 blocks can fall on Indy, this script doesn't seem finished, probably urgently just before the game is shipped.
+- shw_portculliswheel.cog       -
+- shw_portroomvoice.cog         -
+- shw_powergear.cog             - Control the 4 gears that must be in contact with the water wheel to open each of the portcullis doors.
+- shw_powerroom_sluice.cog      -
+- shw_powervoice.cog            -
+- shw_realpowerwheeldoors.cog   -
+- shw_riverthrust.cog           -
+- shw_rivervoice.cog            - Cutscene started when Indy open a door and arrives at the "river area".
+- shw_roomamb.cog               -
+- shw_sluicevoice.cog           -
+- shw_switch_doors.cog          -
+- shw_theboss.cog               -
+- shw_tub.cog                   - Control the "tub", it can explode if Indy shoots it. (the "tub" would never have been used in the original level (?)).
+- shw_tub_clue.cog              - Simple dialogue spoken by Indy when he walk on a surface near the "tub" "Hmm.  Something's in there..."
+- shw_whipthruwall.cog          - Cutscene started when Indy destroy a cracked wall with his whip. These variables "int dragonplayed=0" or "sound dragon_cue=mus_shw_monkchant2.wav" suggest that Indy enters an area with one or more big dragon heads statues, which is most likely diversion room 3.
 </pre>
 # End
