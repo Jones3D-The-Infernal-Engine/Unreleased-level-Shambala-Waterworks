@@ -107,28 +107,28 @@ IN PROGRESS
 - shw_bucketvoice.cog           - Simple dialogue spoken by Indy when he comes into contact with the bucket device model "This looks interesting".
 - shw_caveamb.cog               -
 - shw_commiecreator.cog         -
-- shw_div1locked_door.cog       -
+- shw_div1locked_door.cog       - Control a door in diversion room 1 that needed to be opened using a sapphire key.
 - shw_div2ext_commies.cog       -
-- shw_div2locked_door.cog       -
-- shw_div2voice.cog             -
+- shw_div2locked_door.cog       - Control a door in diversion room 2 that needed to be opened using a gold key.
+- shw_div2voice.cog             - Simple dialogue spoken by Indy when he arrive in diversion room 2. "Quite a milling machine.  The first step in pounding out the monks' daily bread, no doubt."
 - shw_div3intcommies.cog        -
-- shw_div3locked_door.cog       -
-- shw_div3roomkey.cog           -
+- shw_div3locked_door.cog       - Control a door in diversion room 3 that needed to be opened using a garnet key.
+- shw_div3roomkey.cog           - Mini-cutscene showing Indy picking up the garnet key.
 - shw_entranceamb.cog           -
 - shw_entrancedoors.cog         -
 - shw_fallfx.cog                -
 - shw_galleriecommies.cog       -
 - shw_grill.cog                 -
-- shw_hint.cog                  -
+- shw_hint.cog                  - Generates clue crosses on the game mini-map after certain actions performed by Indy. The code comments left in the file are extremely useful to reconstruct the level and know the order of events.
 - shw_lamptorch.cog             -
 - shw_maindoors.cog             -
 - shw_mastercam.cog             -
 - shw_newriver_thaw.cog         -
-- shw_opening.cog               -
+- shw_opening.cog               - Cutscene started when Indy start the level. Music "mus_shw_intro.wav" is played and the entrance double door is closed behind Indy. He say "Brr.  Cold in here."
 - shw_piertrap.cog              - Control the "pier trap", where 3 blocks can fall on Indy, this script doesn't seem finished, probably urgently just before the game is shipped.
 - shw_portculliswheel.cog       -
 - shw_portroomvoice.cog         -
-- shw_powergear.cog             - Control the 4 gears that must be in contact with the water wheel to open each of the portcullis doors.
+- shw_powergear.cog             - Control the 4 gears that must be in contact with the water wheel to open each of the 4 portcullis doors.
 - shw_powerroom_sluice.cog      -
 - shw_powervoice.cog            -
 - shw_realpowerwheeldoors.cog   -
