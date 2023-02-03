@@ -101,6 +101,45 @@ Voice line when Indy take a "flask" but no inventory object index (bin) is defin
 
 IN PROGRESS
 <pre>
-- shw_fallfx.cog                - Defines a still existing water sound (riv_h20_rapid_a.wav) for "ghost objects" and also defines a downward sector thrust. Probably a waterfall that is part of the "waterslide park" usable by Indy and mentioned by the level designer. The script receive orders (user0:) from variable "icedamcog", which was probably "shw_newriver_thaw.cog". The water flowing after the dam melts would therefore supply one or more waterfalls that can be used by Indy. (And then, maybe visitable early in the level without water, sound an thrust?)
+- shw_alldivrooms.cog
+- shw_arenacue.cog
+- shw_bucketdevice.cog
+- shw_bucketvoice.cog
+- shw_caveamb.cog
+- shw_commiecreator.cog
+- shw_div1locked_door.cog
+- shw_div2ext_commies.cog
+- shw_div2locked_door.cog
+- shw_div2voice.cog
+- shw_div3intcommies.cog
+- shw_div3locked_door.cog
+- shw_div3roomkey.cog
+- shw_entranceamb.cog
+- shw_entrancedoors.cog
+- shw_fallfx.cog
+- shw_galleriecommies.cog
+- shw_grill.cog
+- shw_hint.cog
+- shw_lamptorch.cog
+- shw_maindoors.cog
+- shw_mastercam.cog
+- shw_newriver_thaw.cog
+- shw_opening.cog
+- shw_piertrap.cog
+- shw_portculliswheel.cog
+- shw_portroomvoice.cog
+- shw_powergear.cog
+- shw_powerroom_sluice.cog
+- shw_powervoice.cog
+- shw_realpowerwheeldoors.cog
+- shw_riverthrust.cog
+- shw_rivervoice.cog
+- shw_roomamb.cog
+- shw_sluicevoice.cog
+- shw_switch_doors.cog
+- shw_theboss.cog
+- shw_tub.cog
+- shw_tub_clue.cog
+- shw_whipthruwall.cog
 </pre>
 # End
