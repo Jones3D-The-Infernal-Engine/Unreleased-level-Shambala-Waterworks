@@ -62,7 +62,7 @@ Not present in the official SHW COGS files. (Maybe in general voice cog or just 
 Voice line when crossing a surface in "Diversion room 2". (shw_div2voice.cog - var intheyknew)<br/>
 "```SW01J06A.WAV```" "Quite a milling machine.  The first step in pounding out the monks' daily bread, no doubt."
 
-Voice line when Indy take a "flask" but no inventory object index (bin) is defined. (shw_rivervoice.cog - var inflaskspot)<br/>
+Voice line when Indy take a "flask", (the oil jar). (shw_rivervoice.cog - var inflaskspot)<br/>
 "```SW01J07.WAV```" "Some lamp oil...I might be able to warm things up with this."
 
 # Specific items of the level
