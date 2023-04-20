@@ -1,6 +1,6 @@
 # Unreleased-level-Shambala-Waterworks
 
-A level existed between Shambala Santuary and Palawan Lagoon: Shambala Waterworks. It was never included in the final game due to lack of time mainly. No one has seen this level since 1999 and no one knows if it still exists somewhere in the Disney/LucasFilm archives or if it is lost forever. But many files have been forgotten in the game folder. (models (but a lot of missing textures), scripts, voice lines (text only) and some other light stuff.
+A level existed between Shambala Santuary and Palawan Lagoon: Shambala Waterworks. It was never included in the final game due to lack of time mainly. No one has seen this level since 1999 and no one knows if it still exists somewhere in the Disney/LucasFilm archives or if it is lost forever. But many files have been forgotten in the game folder. (models (but a lot of missing textures), scripts, voice lines (text only) and some other various files.
 
 Two areas of this level have been cut and integrated in two other levels of the released game:
 <pre>
@@ -9,10 +9,10 @@ Two areas of this level have been cut and integrated in two other levels of the 
 </pre>
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/a0f42e3c93322f6730956c780250681ad63ffc3c/04_shw.jpg?raw=true)
 <pre>
-- Loading screen                - Still present in game files.
-- Ice boss arena                - LucasArts dev promotional public screenshot, era ≤ 1999.
-- Diversion room 2              - LucasArts dev promotional public screenshot, era ≤ 1999.
-- Diversion room 1              - LucasArts dev promotional public screenshot, era ≤ 1999.
+- Loading screen                - Still in the game files.
+- Ice boss arena                - LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
+- Diversion room 2              - LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
+- Diversion room 1              - LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
 </pre>
 
 # Content and goal in this level
@@ -23,11 +23,11 @@ Two areas of this level have been cut and integrated in two other levels of the 
 
 -The water now flows through channels and can now be diverted to Diversion Rooms 2 or 3 using the sluice in the Diversion Room 1.
 
--The next step was to complete the "Diversion rooms" 2 and 3 (also called "Div rooms") in any order you want, which must be opened with "Gold key" and "Garnet key". You had to divert the waterflow in any diversion rooms and divert the waterflow again using associated sluices gates. (two directions in each rooms, which makes 4 channels.
+-The next step was to complete the "Diversion rooms" 2 and 3 (also called "Div rooms") in any order you want, which must be opened with "Gold key" and "Garnet key". You had to divert the waterflow in any diversion rooms and divert the waterflow again using associated sluices gates. (two directions in each rooms 2 and 3, which makes 4 channels.
 
 -We do not know at the moment how these 4 channels are connected to the central cylinder and how they act on the wheel.
 
--Once the four portcullis doors were open, it was possible to descend into the Ice Boss arena probably from the west and not from the south (as currently). The arena and end cutscene were similar to the released version.
+-Once the four portcullis doors were open, it was possible to descend into the ice boss arena probably from the west and not from the south (as currently). The arena and end cutscene were similar to the released version.
 
 # Third theoretical version of the layout (extremely simplified)
 
@@ -77,9 +77,10 @@ Voice line when Indy take a "flask", (the oil jar). (shw_rivervoice.cog - var in
 # NPCs
 - Ice boss (x1) : Confirmed as enemy
 - Ice monster (x?) : Uncertain but very probable as enemy
-- Ice butterfly (x?) : Uncertain but very probable as neutral
+- Ice butterfly (x?) : Uncertain but probable as neutral
+- Spider (x?) : Uncertain but possible as enemy
 - Soviet infantry (x?) : Confirmed as enemy
-- Shambala holy woman (young) : Confirmed as friend
+- Shambala holy woman (young only) : Confirmed as friend (cutscene)
 
 # Level scripts infos
 
