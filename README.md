@@ -1,5 +1,14 @@
 # Unreleased-level-Shambala-Waterworks
 
+Official name by versions:
+<pre>
+- English:                      Shambala Waterworks
+- German:                       Shambala Wasserwerk
+- French:                       La Station Hydraulique de Shambala
+- Italian:                      Acquedotto di Shambala
+- Spanish:                      ?
+</pre>
+
 A level existed between Shambala Santuary and Palawan Lagoon: Shambala Waterworks. It was never included in the final game due to lack of time mainly. No one has seen this level since 1999 and no one knows if it still exists somewhere in the Disney/LucasFilm archives or if it is lost forever. But many files have been forgotten in the game folder. (models (but a lot of missing textures), scripts, voice lines (text only) and some other various files.
 
 Two areas of this level have been cut and integrated in two other levels of the released game:
@@ -9,10 +18,10 @@ Two areas of this level have been cut and integrated in two other levels of the 
 </pre>
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw_dev_screenshoots.jpg?raw=true)
 <pre>
-- Loading screen                - Still in the game files.
-- Ice boss arena                - LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
-- Diversion room 2              - LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
-- Diversion room 1              - LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
+- Loading screen:               Still in the game files.
+- Ice boss arena:               LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
+- Diversion room 2:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
+- Diversion room 1:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
 </pre>
 
 # Content and goal in this level
