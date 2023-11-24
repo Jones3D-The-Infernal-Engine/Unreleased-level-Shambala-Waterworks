@@ -22,7 +22,7 @@ Two areas of this level have been cut and integrated in two other levels of the 
 - Diversion room 2:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
 - Diversion room 1:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
 </pre>
-![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw_dev_screenshoots.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw_devs_screenshoots.jpg?raw=true)
 
 # Content and goal in this level
 
