@@ -18,10 +18,10 @@ Two areas of this level have been cut and integrated in two other levels of the 
 </pre>
 <pre>
 - Loading screen:               Still in the game files.
-- Ice boss arena:               LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
-- Diversion room 2:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
-- Diversion room 1:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web.
-- Diversion room 2:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web. (Very different, probably an early version, the sky is visible, why???, this room is supposed to be underground).
+- Ice boss arena:               LucasArts dev promotional public screenshot, era ≤ 1999 found on the web. (Early design of the arena, very different).
+- Diversion room 2:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web. (The river was smaller here, and no entrance on the visible wall).
+- Diversion room 1:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web. (The ice dam should be nearby, but still solid, there is no water).
+- Diversion room 2:             LucasArts dev promotional public screenshot, era ≤ 1999 found on the web. (Very different, probably an early version, the sky is visible, why??? This room is supposed to be underground).
 </pre>
 ![alt text](https://raw.githubusercontent.com/Jones3D-The-Infernal-Engine/Unreleased-level-Shambala-Waterworks/main/04_shw_devs_screenshoots.jpg?raw=true)
 
