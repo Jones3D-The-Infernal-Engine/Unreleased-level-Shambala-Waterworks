@@ -6,7 +6,7 @@ Official name by versions:
 - German:                       Shambala Wasserwerk
 - French:                       La Station Hydraulique de Shambala
 - Italian:                      Acquedotto di Shambala
-- Spanish:                      ?
+- Spanish:                      Depuradora Shambala
 </pre>
 
 A level existed between Shambala Santuary and Palawan Lagoon: Shambala Waterworks. It was never included in the final game due to lack of time mainly. No one has seen this level since 1999 and no one knows if it still exists somewhere in the Disney/LucasFilm archives or if it is lost forever. But many files have been forgotten in the game folder. (models (but a lot of missing textures), scripts, voice lines (text only) and some other various files.
